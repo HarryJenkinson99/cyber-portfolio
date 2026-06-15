@@ -48,3 +48,10 @@ footer {
     margin-top: 40px;
     color: #aaa;
 }
+a {
+    color: white;
+}
+
+a:hover {
+    color: #cccccc;
+}
